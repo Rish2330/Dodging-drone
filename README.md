@@ -32,7 +32,7 @@ microcontroller. All the hardware mentioned on previous section combined as show
 Arduino UNO is a microcontroller using ATMmega328. It provides 14 digital input/output pins
 (including 6 PWM output pins), 6 analog pins, USB connection, and a power connector [6]. It will
 be used to receive information from sensor, communicate with ground station, and control another
-device to perform obstacle avoidance.
+device to perform obstacle avoidance. Arduino needs to be connected to telemetry 2 of pixhawk controller.
 
 2.2. Pixhawk
 
