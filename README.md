@@ -58,6 +58,7 @@ yet comes within affordable price.
 
 ![image](https://user-images.githubusercontent.com/99550382/178240256-6874e67b-f8f3-4786-9705-af794967e7d5.png)
 
+Position of sensors:
 ![image](https://user-images.githubusercontent.com/99550382/178241479-276a6491-b628-41af-a5e7-db92c9725752.png)
 
 
@@ -85,6 +86,7 @@ the quadcopter.
 #Construction :
 
 ![image](https://user-images.githubusercontent.com/99550382/178241323-714d0416-d09c-4cd7-bd29-74e0a8e94297.png)
+
 
 ![image](https://user-images.githubusercontent.com/99550382/178241387-a2969205-6ab7-41bd-9967-44d985220a20.png)
 
